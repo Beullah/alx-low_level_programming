@@ -1,1 +1,1 @@
-This is the beginning of the coding journey
+This is the intriduction to C programming

@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * main-main block
- * Description:print -putchar in a newline
- * Retun:this program retuens zero
+ * main -  Entry point
+ *
+ * Return: nothing, return void
  */
 int main(void)
 {
@@ -15,5 +15,6 @@ _putchar('h');
 _putchar('a');
 _putchar('r');
 _putchar('\n');
+
 return (0);
 }
